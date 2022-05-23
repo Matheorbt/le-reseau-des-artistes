@@ -6,31 +6,31 @@ All the details of the project are described on the pdf at the root of the repos
 
 ### Login page
 
-![Login](https://postimg.cc/QKWQ7RCy)
+![Login](https://i.postimg.cc/5ysnhJVb/Login.png)
 
 ### Homepage
 
-![Homepage](https://postimg.cc/1fw03hLg)
+![Homepage](https://i.postimg.cc/28X0TCGx/Homepage.png)
 
 ### Homepage menu
 
-![Homepage menu](https://postimg.cc/TLsjpRdb)
+![Homepage menu](https://i.postimg.cc/4yfW2djW/Homepage-menu.png)
 
 ### Liked posts page
 
-![Liked posts](https://postimg.cc/6TDLK51J)
+![Liked posts](https://i.postimg.cc/DyzCqSrZ/Liked-posts.png)
 
 ### New post page
 
-![New post](https://postimg.cc/z3LS4R7F)
+![New post](https://i.postimg.cc/bYgCDx2W/New-post.png)
 
 ### Post page
 
-![Post](https://postimg.cc/LJVzjk42)
+![Post](https://i.postimg.cc/YC5bK8JG/Post.png)
 
 ### Profile page
 
-![Profile](https://postimg.cc/tsb31vjB)
+![Profile](https://i.postimg.cc/0yMcBhH1/Profile.png)
 
 ## Installation
 
