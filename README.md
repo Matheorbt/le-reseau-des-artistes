@@ -55,6 +55,7 @@ npm i && npm run start
 - MongoDB
 - Express
 - Nodejs
+- AWS S3
 
 ### Front-end:
 
